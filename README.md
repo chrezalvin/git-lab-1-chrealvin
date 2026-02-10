@@ -8,6 +8,7 @@
 - Collaboration with team
 
 ## Features
-- Dark mode toggle
-- Responsive design
-- Clean UI
+- Interactive Dark mode toggle
+- Responsive and modern UI design
+- Clean Interactive
+- Fast loading
